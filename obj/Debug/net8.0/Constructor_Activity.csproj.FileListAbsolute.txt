@@ -1,0 +1,14 @@
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\bin\Debug\net8.0\Constructor_Activity.exe
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\bin\Debug\net8.0\Constructor_Activity.deps.json
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\bin\Debug\net8.0\Constructor_Activity.runtimeconfig.json
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\bin\Debug\net8.0\Constructor_Activity.dll
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\bin\Debug\net8.0\Constructor_Activity.pdb
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.AssemblyInfoInputs.cache
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.AssemblyInfo.cs
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.csproj.CoreCompileInputs.cache
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.dll
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\refint\Constructor_Activity.dll
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.pdb
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\Constructor_Activity.genruntimeconfig.cache
+C:\Users\Henry Maano\source\repos\Constructor_Activity\Constructor_Activity\obj\Debug\net8.0\ref\Constructor_Activity.dll
